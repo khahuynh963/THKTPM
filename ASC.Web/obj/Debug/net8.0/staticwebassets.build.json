@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v197KKv4cz8W3NH37NcOfle8EPQrB+0zNsIRzuysRxw=",
+  "Hash": "O1LNNFoZLebm0K0UInYhn4XdjshtCPyUaQ2YK6/9Tqk=",
   "Source": "ASC.Web",
   "BasePath": "_content/ASC.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ASC.Web\\wwwroot",
       "Source": "ASC.Web",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\Kha Banh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.12\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css",
       "SourceId": "ASC.Web",
       "SourceType": "Computed",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "ASC.Web#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "7xK4VPeUHIXUIz6WkI9EldquEBnYDyHF0IDUY6fVh8U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css"
+      "OriginalItemSpec": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
       "SourceId": "ASC.Web",
       "SourceType": "Computed",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "ASC.Web#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "7xK4VPeUHIXUIz6WkI9EldquEBnYDyHF0IDUY6fVh8U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css"
+      "OriginalItemSpec": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\materialize.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\materialize.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "css/materialize#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\materialize.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\materialize.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "css/materialize.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\css\\materialize.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\site.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\site.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\style.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\style.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\favicon.ico",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\favicon.ico",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\avatar.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\avatar.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/avatar#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatar.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background_Car.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background_Car.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/background_Car#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background_Car.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background1.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background1.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/background1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background1.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background2.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background2.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/background2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background2.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background3.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background3.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/background3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background3.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground4.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground4.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/bground4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bground4.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground5.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground5.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/bground5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bground5.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground6.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground6.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/bground6#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bground6.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\BlackCar.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\BlackCar.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/BlackCar#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\BlackCar.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\Blackcar2.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\Blackcar2.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/Blackcar2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Blackcar2.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\logo.jpg",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\logo.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "images/logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\init.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\init.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "js/init#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1669,17 +1669,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dhrwgcfgtn",
-      "Integrity": "3/x/vm2JXsHirfATAx/gJapA3raCUuvWbRh2fcZJlBQ=",
+      "Fingerprint": "6uadm2wkmh",
+      "Integrity": "HpYrzm1lZBoGHBo84QOXDMNuvBEIm2zOPtF/S6TRL2c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\init.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\materialize.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\materialize.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "js/materialize#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\js\\materialize.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\materialize.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\materialize.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "js/materialize.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\js\\materialize.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\site.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\site.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2600,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2621,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2642,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2663,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2684,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2705,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2726,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2747,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2768,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2789,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2831,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2852,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2894,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2915,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\",
+      "ContentRoot": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2939,7 +2939,7 @@
   "Endpoints": [
     {
       "Route": "ASC.Web.1ob0utwlhp.bundle.scp.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2960,7 +2960,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:17:26 GMT"
+          "Value": "Wed, 19 Mar 2025 04:02:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2984,7 +2984,7 @@
     },
     {
       "Route": "ASC.Web.1ob0utwlhp.styles.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3005,7 +3005,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:17:26 GMT"
+          "Value": "Wed, 19 Mar 2025 04:02:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3029,7 +3029,7 @@
     },
     {
       "Route": "ASC.Web.bundle.scp.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASC.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3050,7 +3050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:17:26 GMT"
+          "Value": "Wed, 19 Mar 2025 04:02:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3066,7 +3066,7 @@
     },
     {
       "Route": "ASC.Web.styles.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ASC.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3087,7 +3087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:17:26 GMT"
+          "Value": "Wed, 19 Mar 2025 04:02:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3103,7 +3103,7 @@
     },
     {
       "Route": "css/materialize.c8rifz1v31.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\materialize.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\materialize.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3148,7 +3148,7 @@
     },
     {
       "Route": "css/materialize.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\materialize.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\materialize.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3185,7 +3185,7 @@
     },
     {
       "Route": "css/materialize.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\materialize.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3222,7 +3222,7 @@
     },
     {
       "Route": "css/materialize.min.m1bfow4yy4.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\materialize.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3267,7 +3267,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\site.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3304,7 +3304,7 @@
     },
     {
       "Route": "css/site.fosamezn9b.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\site.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3349,7 +3349,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\style.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3386,7 +3386,7 @@
     },
     {
       "Route": "css/style.xj9vns5ndx.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\css\\style.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3431,7 +3431,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\favicon.ico",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3476,7 +3476,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\favicon.ico",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5733,7 +5733,7 @@
     },
     {
       "Route": "images/avatar.fvuq0g22yh.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\avatar.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\avatar.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5778,7 +5778,7 @@
     },
     {
       "Route": "images/avatar.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\avatar.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\avatar.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5815,7 +5815,7 @@
     },
     {
       "Route": "images/background_Car.5qcivu8c48.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background_Car.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background_Car.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5860,7 +5860,7 @@
     },
     {
       "Route": "images/background_Car.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background_Car.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background_Car.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5897,7 +5897,7 @@
     },
     {
       "Route": "images/background1.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background1.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5934,7 +5934,7 @@
     },
     {
       "Route": "images/background1.k7k07wiv2i.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background1.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5979,7 +5979,7 @@
     },
     {
       "Route": "images/background2.6vta7xqpls.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background2.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6024,7 +6024,7 @@
     },
     {
       "Route": "images/background2.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background2.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6061,7 +6061,7 @@
     },
     {
       "Route": "images/background3.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background3.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6098,7 +6098,7 @@
     },
     {
       "Route": "images/background3.zlkc5rodm1.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\background3.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\background3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6143,7 +6143,7 @@
     },
     {
       "Route": "images/bground4.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground4.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6180,7 +6180,7 @@
     },
     {
       "Route": "images/bground4.xp48mxhe5j.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground4.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6225,7 +6225,7 @@
     },
     {
       "Route": "images/bground5.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground5.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6262,7 +6262,7 @@
     },
     {
       "Route": "images/bground5.yw010a74zq.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground5.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6307,7 +6307,7 @@
     },
     {
       "Route": "images/bground6.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground6.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6344,7 +6344,7 @@
     },
     {
       "Route": "images/bground6.y2ok0dwsg6.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\bground6.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\bground6.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6389,7 +6389,7 @@
     },
     {
       "Route": "images/BlackCar.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\BlackCar.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\BlackCar.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6426,7 +6426,7 @@
     },
     {
       "Route": "images/BlackCar.yw010a74zq.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\BlackCar.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\BlackCar.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6471,7 +6471,7 @@
     },
     {
       "Route": "images/Blackcar2.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\Blackcar2.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\Blackcar2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6508,7 +6508,7 @@
     },
     {
       "Route": "images/Blackcar2.rhzhado9g4.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\Blackcar2.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\Blackcar2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6553,7 +6553,7 @@
     },
     {
       "Route": "images/logo.bh7hjen786.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\logo.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6598,7 +6598,7 @@
     },
     {
       "Route": "images/logo.jpg",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\images\\logo.jpg",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\images\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6634,8 +6634,8 @@
       ]
     },
     {
-      "Route": "js/init.dhrwgcfgtn.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\init.js",
+      "Route": "js/init.6uadm2wkmh.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\init.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6644,7 +6644,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "929"
+          "Value": "766"
         },
         {
           "Name": "Content-Type",
@@ -6652,11 +6652,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3/x/vm2JXsHirfATAx/gJapA3raCUuvWbRh2fcZJlBQ=\""
+          "Value": "\"HpYrzm1lZBoGHBo84QOXDMNuvBEIm2zOPtF/S6TRL2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:51 GMT"
+          "Value": "Tue, 18 Mar 2025 14:44:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6666,7 +6666,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dhrwgcfgtn"
+          "Value": "6uadm2wkmh"
         },
         {
           "Name": "label",
@@ -6674,13 +6674,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3/x/vm2JXsHirfATAx/gJapA3raCUuvWbRh2fcZJlBQ="
+          "Value": "sha256-HpYrzm1lZBoGHBo84QOXDMNuvBEIm2zOPtF/S6TRL2c="
         }
       ]
     },
     {
       "Route": "js/init.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\init.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\init.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6689,7 +6689,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "929"
+          "Value": "766"
         },
         {
           "Name": "Content-Type",
@@ -6697,11 +6697,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3/x/vm2JXsHirfATAx/gJapA3raCUuvWbRh2fcZJlBQ=\""
+          "Value": "\"HpYrzm1lZBoGHBo84QOXDMNuvBEIm2zOPtF/S6TRL2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 16:01:51 GMT"
+          "Value": "Tue, 18 Mar 2025 14:44:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6711,13 +6711,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3/x/vm2JXsHirfATAx/gJapA3raCUuvWbRh2fcZJlBQ="
+          "Value": "sha256-HpYrzm1lZBoGHBo84QOXDMNuvBEIm2zOPtF/S6TRL2c="
         }
       ]
     },
     {
       "Route": "js/materialize.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\materialize.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\materialize.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6754,7 +6754,7 @@
     },
     {
       "Route": "js/materialize.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\materialize.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\materialize.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6791,7 +6791,7 @@
     },
     {
       "Route": "js/materialize.min.q37rb6jwlq.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\materialize.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\materialize.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6836,7 +6836,7 @@
     },
     {
       "Route": "js/materialize.mlft083j8o.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\materialize.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\materialize.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6881,7 +6881,7 @@
     },
     {
       "Route": "js/site.fr7q2aak1r.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\site.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6926,7 +6926,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\js\\site.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6963,7 +6963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7000,7 +7000,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7045,7 +7045,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7082,7 +7082,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7127,7 +7127,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7164,7 +7164,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7209,7 +7209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7246,7 +7246,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7291,7 +7291,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7328,7 +7328,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7373,7 +7373,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7410,7 +7410,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7455,7 +7455,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7492,7 +7492,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7537,7 +7537,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7574,7 +7574,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7619,7 +7619,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7664,7 +7664,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7701,7 +7701,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7738,7 +7738,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7783,7 +7783,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7820,7 +7820,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7865,7 +7865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7902,7 +7902,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7947,7 +7947,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7984,7 +7984,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8029,7 +8029,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8066,7 +8066,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8103,7 +8103,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8140,7 +8140,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8185,7 +8185,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8230,7 +8230,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8275,7 +8275,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8320,7 +8320,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8357,7 +8357,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8402,7 +8402,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8439,7 +8439,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8476,7 +8476,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8513,7 +8513,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8558,7 +8558,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8603,7 +8603,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8648,7 +8648,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8685,7 +8685,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8730,7 +8730,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8767,7 +8767,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8804,7 +8804,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8841,7 +8841,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8886,7 +8886,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8931,7 +8931,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8968,7 +8968,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9013,7 +9013,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9050,7 +9050,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9095,7 +9095,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9132,7 +9132,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9169,7 +9169,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9214,7 +9214,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9259,7 +9259,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9296,7 +9296,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9341,7 +9341,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9378,7 +9378,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9415,7 +9415,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9460,7 +9460,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9497,7 +9497,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9542,7 +9542,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9587,7 +9587,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9624,7 +9624,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9669,7 +9669,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9706,7 +9706,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9751,7 +9751,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9796,7 +9796,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9833,7 +9833,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9878,7 +9878,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9915,7 +9915,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9952,7 +9952,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9997,7 +9997,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10034,7 +10034,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10079,7 +10079,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10116,7 +10116,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10153,7 +10153,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10198,7 +10198,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10243,7 +10243,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10280,7 +10280,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10325,7 +10325,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10362,7 +10362,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10399,7 +10399,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10436,7 +10436,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10481,7 +10481,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10526,7 +10526,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10571,7 +10571,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10608,7 +10608,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.z6qzljqjd0",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10653,7 +10653,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10698,7 +10698,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10735,7 +10735,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10780,7 +10780,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10825,7 +10825,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10862,7 +10862,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10899,7 +10899,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.jfsiqqwiad.txt",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10944,7 +10944,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10981,7 +10981,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.gcjdx5jb8l.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11026,7 +11026,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11063,7 +11063,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.35gxhxa0gh.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11108,7 +11108,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11145,7 +11145,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11182,7 +11182,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11227,7 +11227,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11264,7 +11264,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11309,7 +11309,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11346,7 +11346,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11391,7 +11391,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11436,7 +11436,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11473,7 +11473,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11518,7 +11518,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11555,7 +11555,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.l3n5xuwxn8.txt",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11600,7 +11600,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "K:\\nro\\THTKPM\\ASC.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

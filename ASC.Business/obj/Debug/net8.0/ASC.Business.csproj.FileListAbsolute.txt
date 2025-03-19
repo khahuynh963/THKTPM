@@ -20,3 +20,15 @@ K:\nro\KTTKPMH2-master\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
 K:\nro\KTTKPMH2-master\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
 K:\nro\KTTKPMH2-master\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
 K:\nro\KTTKPMH2-master\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll
+K:\nro\THTKPM\ASC.Business\bin\Debug\net8.0\ASC.Business.deps.json
+K:\nro\THTKPM\ASC.Business\bin\Debug\net8.0\ASC.Business.dll
+K:\nro\THTKPM\ASC.Business\bin\Debug\net8.0\ASC.Business.pdb
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.GeneratedMSBuildEditorConfig.editorconfig
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfoInputs.cache
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.AssemblyInfo.cs
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.csproj.CoreCompileInputs.cache
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.sourcelink.json
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.dll
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\refint\ASC.Business.dll
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ASC.Business.pdb
+K:\nro\THTKPM\ASC.Business\obj\Debug\net8.0\ref\ASC.Business.dll

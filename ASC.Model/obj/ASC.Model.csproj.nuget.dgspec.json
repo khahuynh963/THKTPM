@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj": {}
+    "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj": {}
   },
   "projects": {
-    "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj": {
+    "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-        "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\obj\\",
+        "outputPath": "K:\\nro\\THTKPM\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

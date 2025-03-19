@@ -23,3 +23,16 @@ K:\nro\KTTKPMH2-master\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
 K:\nro\KTTKPMH2-master\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
 K:\nro\KTTKPMH2-master\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
 K:\nro\KTTKPMH2-master\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+K:\nro\THTKPM\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+K:\nro\THTKPM\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+K:\nro\THTKPM\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+K:\nro\THTKPM\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll

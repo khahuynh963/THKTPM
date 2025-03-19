@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\nro\\KTTKPMH2-master\\ASC.Tests\\ASC.Tests.csproj": {}
+    "K:\\nro\\THTKPM\\ASC.Tests\\ASC.Tests.csproj": {}
   },
   "projects": {
-    "K:\\nro\\KTTKPMH2-master\\ASC.Business\\ASC.Business.csproj": {
+    "K:\\nro\\THTKPM\\ASC.Business\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Business\\ASC.Business.csproj",
+        "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Business\\ASC.Business.csproj",
         "projectName": "ASC.Business",
-        "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Business\\ASC.Business.csproj",
+        "projectPath": "K:\\nro\\THTKPM\\ASC.Business\\ASC.Business.csproj",
         "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-        "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Business\\obj\\",
+        "outputPath": "K:\\nro\\THTKPM\\ASC.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "K:\\nro\\KTTKPMH2-master\\ASC.DataAcess\\ASC.DataAcess.csproj": {
+    "K:\\nro\\THTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.DataAcess\\ASC.DataAcess.csproj",
+        "projectUniqueName": "K:\\nro\\THTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj",
         "projectName": "ASC.DataAcess",
-        "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.DataAcess\\ASC.DataAcess.csproj",
+        "projectPath": "K:\\nro\\THTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj",
         "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-        "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.DataAcess\\obj\\",
+        "outputPath": "K:\\nro\\THTKPM\\ASC.DataAcess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,11 +97,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj"
+              "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj"
               },
-              "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj"
+              "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj": {
+    "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-        "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\obj\\",
+        "outputPath": "K:\\nro\\THTKPM\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -216,14 +216,14 @@
         }
       }
     },
-    "K:\\nro\\KTTKPMH2-master\\ASC.Tests\\ASC.Tests.csproj": {
+    "K:\\nro\\THTKPM\\ASC.Tests\\ASC.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Tests\\ASC.Tests.csproj",
+        "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Tests\\ASC.Tests.csproj",
         "projectName": "ASC.Tests",
-        "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Tests\\ASC.Tests.csproj",
+        "projectPath": "K:\\nro\\THTKPM\\ASC.Tests\\ASC.Tests.csproj",
         "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-        "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Tests\\obj\\",
+        "outputPath": "K:\\nro\\THTKPM\\ASC.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "K:\\nro\\KTTKPMH2-master\\ASC.Web\\ASC.Web.csproj": {
-                "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\ASC.Web.csproj"
+              "K:\\nro\\THTKPM\\ASC.Web\\ASC.Web.csproj": {
+                "projectPath": "K:\\nro\\THTKPM\\ASC.Web\\ASC.Web.csproj"
               }
             }
           }
@@ -309,14 +309,14 @@
         }
       }
     },
-    "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj": {
+    "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
         "projectName": "ASC.Utilities",
-        "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectPath": "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-        "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\obj\\",
+        "outputPath": "K:\\nro\\THTKPM\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -384,14 +384,14 @@
         }
       }
     },
-    "K:\\nro\\KTTKPMH2-master\\ASC.Web\\ASC.Web.csproj": {
+    "K:\\nro\\THTKPM\\ASC.Web\\ASC.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\ASC.Web.csproj",
+        "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Web\\ASC.Web.csproj",
         "projectName": "ASC.Web",
-        "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\ASC.Web.csproj",
+        "projectPath": "K:\\nro\\THTKPM\\ASC.Web\\ASC.Web.csproj",
         "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-        "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Web\\obj\\",
+        "outputPath": "K:\\nro\\THTKPM\\ASC.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -412,17 +412,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "K:\\nro\\KTTKPMH2-master\\ASC.Business\\ASC.Business.csproj": {
-                "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Business\\ASC.Business.csproj"
+              "K:\\nro\\THTKPM\\ASC.Business\\ASC.Business.csproj": {
+                "projectPath": "K:\\nro\\THTKPM\\ASC.Business\\ASC.Business.csproj"
               },
-              "K:\\nro\\KTTKPMH2-master\\ASC.DataAcess\\ASC.DataAcess.csproj": {
-                "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.DataAcess\\ASC.DataAcess.csproj"
+              "K:\\nro\\THTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj": {
+                "projectPath": "K:\\nro\\THTKPM\\ASC.DataAcess\\ASC.DataAcess.csproj"
               },
-              "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Model\\ASC.Model.csproj"
+              "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "K:\\nro\\THTKPM\\ASC.Model\\ASC.Model.csproj"
               },
-              "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj": {
-                "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj"
+              "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -443,6 +443,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.12, )"

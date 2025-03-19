@@ -1202,11 +1202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj",
+      "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
       "projectName": "ASC.Utilities",
-      "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj",
+      "projectPath": "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
       "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-      "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\obj\\",
+      "outputPath": "K:\\nro\\THTKPM\\ASC.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

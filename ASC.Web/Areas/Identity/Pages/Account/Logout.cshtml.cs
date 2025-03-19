@@ -32,9 +32,7 @@ namespace ASC.Web.Areas.Identity.Pages.Account
         {
             await _signInManager.SignOutAsync();
             _logger.LogInformation("User logged out.");
-          
-                return RedirectToPage("Home/Index");
-            
+            return RedirectToPage("Home/Index");
         }
     }
 }

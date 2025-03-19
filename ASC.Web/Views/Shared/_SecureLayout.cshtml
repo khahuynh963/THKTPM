@@ -1,14 +1,27 @@
 ﻿@using Microsoft.AspNetCore.Http
 @using ASC.Utilities
+@using ASC.Web.Data
+@model ASC.Web.Models.NavigationMenu
 @inject IHttpContextAccessor UserHttpContext
-
+@inject INavigationCacheOperations navigationCache
 @{
     Layout = "_MasterLayout";
     var currentUser = UserHttpContext.HttpContext.User.GetCurrentUserDetails();
 }
+<style>
+    .sidenav-fixed {
+        left: 0;
+        transform: translateX(0);
+    }
 
+        .sidenav-fixed .collapsible-body {
+            padding: 0;
+        }
 
-
+            .sidenav-fixed .collapsible-body li a {
+                padding-left: 32px;
+            }
+</style>
 <!-- Header -->
 <header class="secureLayout">
     <nav class="top-nav blue-grey lighten-1">
@@ -16,15 +29,11 @@
             <div class="col s12 valign-wrapper">
                 <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                 <h5><a class="page-title" style="padding: 0px 300px;">Automobile Service Center</a></h5>
-
-               
             </div>
         </div>
     </nav>
     <!-- Side NavBar -->
-
-
-    <ul id="nav-mobile" class="sidenav sidenav-fixed">  
+    <ul id="nav-mobile" class="sidenav sidenav-fixed">
         <li>
             <div class="user-view">
                 <div class="background blue-grey lighten-1"></div>
@@ -33,67 +42,15 @@
                 <a href="#!email"><span class="white-text email">@currentUser.Email</span></a>
             </div>
         </li>
-        <li>
-            <a class="collapsible-header" href="#!">
-                <i class="material-icons">dashboard</i>
-                Dashboard
-            </a>
-        </li>
-         <li>
-            <ul class="collapsible collapsible-accordion">
-                <li>
-                    <a class="collapsible-header">Settings<i class="material-icons">settings</i></a>
-                    <div class="collapsible-body">
-                        <ul>
-                            <li>
-                                <a class="collapsible-header" href="#" id="ancrResetPassword">
-                                    Reset Password<i class="material-icons">lock_outline</i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </li>
-            </ul>
-        </li>
-
-        <li>
-            <a class="collapsible-header" href="#!">
-                <i class="material-icons">perm_data_setting</i>
-                Service Requests
-            </a>
-        </li>
-        <li>
-            <a class="collapsible-header" href="#!">
-                <i class="material-icons">message</i>
-                Service Notifications
-            </a>
-        </li>
-        <li>
-            <a class="collapsible-header" href="#!">
-                <i class="material-icons">inbox</i>
-                Promotions
-            </a>
-        </li>
-        <li>
-            <a class="collapsible-header" href="#!">
-                <i class="material-icons">settings</i>
-                Settings
-            </a>
-         </li>
-        <li>
-            <a class="collapsible-header" href="#!" id="ancrLogout">
-                <i class="material-icons">
-                    exit_to_app
-                </i>Logout
-            </a>
-        </li>
-        <form class="hide" method="post" id="logout_form" asp-area="Identity" asp-page="/Account/Logout">
-            <input type="submit" value="Logout" />
-        </form>
+        @await Component.InvokeAsync("ASC.Web.Navigation.LeftNavigation", await navigationCache.GetNavigationCacheAsync())
     </ul>
-
-
 </header>
+
+<form class="hide" method="post" id="logout_form" asp-area="Identity" asp-page="/Account/Logout">
+    <input type="submit" value="Logout" />
+</form>
+<form class="hide" method="post" id="resetPassword_form" asp-area="Identity" asp-page="/Account/InitiateResetPassword">
+</form>
 
 <!-- Render Body -->
 <main class="secureLayout">
@@ -147,18 +104,19 @@
 </footer>
 
 @section Scripts {
-    @RenderSection("Scripts", required: false)
     <script type="text/javascript">
-        $(function () {
+        $(document).ready(function () {
+            $('.sidenav').sidenav();
+            $('.collapsible').collapsible();
+
             $('#ancrLogout').click(function () {
                 $('#logout_form').submit();
             });
+            $('#ancrResetPassword').click(function () {
+                $('#resetPassword_form').submit();
+            });
         });
     </script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('.collapsible').collapsible();
-        });
-    </script>
+    @RenderSection("Scripts", required: false)
 }
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\nro\\KTTKPMH2-master\\ASC.Business\\ASC.Business.csproj",
+      "projectUniqueName": "K:\\nro\\THTKPM\\ASC.Business\\ASC.Business.csproj",
       "projectName": "ASC.Business",
-      "projectPath": "K:\\nro\\KTTKPMH2-master\\ASC.Business\\ASC.Business.csproj",
+      "projectPath": "K:\\nro\\THTKPM\\ASC.Business\\ASC.Business.csproj",
       "packagesPath": "C:\\Users\\Kha Banh\\.nuget\\packages\\",
-      "outputPath": "K:\\nro\\KTTKPMH2-master\\ASC.Business\\obj\\",
+      "outputPath": "K:\\nro\\THTKPM\\ASC.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

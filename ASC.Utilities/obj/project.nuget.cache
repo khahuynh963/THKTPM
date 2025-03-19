@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQ07+Uc8kM8=",
+  "dgSpecHash": "kQKeJ/5VaF8=",
   "success": true,
-  "projectFilePath": "K:\\nro\\KTTKPMH2-master\\ASC.Utilities\\ASC.Utilities.csproj",
+  "projectFilePath": "K:\\nro\\THTKPM\\ASC.Utilities\\ASC.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kha Banh\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.3.0\\microsoft.aspnetcore.cryptography.internal.2.3.0.nupkg.sha512",
     "C:\\Users\\Kha Banh\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.3.0\\microsoft.aspnetcore.dataprotection.2.3.0.nupkg.sha512",
